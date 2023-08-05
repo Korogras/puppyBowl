@@ -3,3 +3,17 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+ul {
+  font-size: 15px;
+  border: 1px solid;
+  margin: 33px;
+  padding: 20px 10px 20px 5px;
+  width: 300px;
+  display: grid;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
